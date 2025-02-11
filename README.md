@@ -5,14 +5,9 @@
 
 <h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm <a href="https://linkedin.com/in/rameezqazi" target="_blank">Rameez Qazi</a></h1>
 
-<div id="header" align="center">  
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHp3M3N2NHR0Z2RmbmVqYmZrazI3b241cmhhZTJ5OHp1aHczb2hhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" width="400"/>
-</div>
-
 <h2 align="center">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h2>       
 
 <p align="center">
-    Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br><br>
     <a href="https://www.linkedin.com/in/rameezqazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rameezqazi" height="40" width="50" /></a>
 </p>
 <h4 align="center"> 📩 Get in touch: <a href="mailto:rameez.qazi23@gmail.com">rameez.qazi23@gmail.com</a> </h4>
